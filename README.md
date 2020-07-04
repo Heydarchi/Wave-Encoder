@@ -1,6 +1,6 @@
 # Wave-Encoder
 
-This application use lame library to encode wave file to mp3 format.
+This application use lame library to encode wave file to mp3 format. ( Wave to MP3 encoder )
 
 ## I. File & Folder list
 ------------
